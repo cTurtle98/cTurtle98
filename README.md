@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 | -- | -- |
 | U42 | \
 <b> pfsense Router </b> \
-<details> Dell r210ii 
+<details> Dell r210ii </details>
   
   
 | U41
