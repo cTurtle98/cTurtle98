@@ -30,8 +30,10 @@ Here are some ideas to get you started:
     <td> 
       Dell r210ii 
       <details>
-        * Intel(R) Xeon(R) CPU E31220L @ 2.20GHz <br>
-        * ram
+        Intel(R) Xeon(R) CPU E31220L @ 2.20GHz <br>
+        8GB (4x2GB) DDR3-1333 MT/s ECC U-DIMM Unbuffered <br>
+        Melanox ConnectX 3 10G sfp+ NIC <br>
+        10G lc fiber sfp+ module
       </details> 
     </td>
   </tr>
@@ -93,13 +95,16 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u27 </td>
-    <td> </td>
-    <td> </td>
+    <td> kvm switcher </td>
+    <td> startech SV831DUSBU </td>
   </tr>
   <tr>
     <td> u26 </td>
-    <td> </td>
-    <td> </td>
+    <td> kvm keyboard and drawer </td>
+    <td>
+      Adesso AKB-425UB Rackmount USB Keyboard <br>
+      RAISING ELECTRONICS 1U Keyboard Tray Cantilever
+    </td>
   </tr>
   <tr>
     <td> u25 </td>
