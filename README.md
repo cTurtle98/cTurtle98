@@ -123,7 +123,7 @@ Here are some ideas to get you started:
     <td> u22 </td>
     <td rowspan="4"> server 4 seaturtle </td>
     <td rowspan="4">
-    proxmox compute node
+    proxmox compute and storage node
     <details>
     <ul>
       <li>Proxmox VE OS</li>
