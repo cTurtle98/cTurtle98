@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 
 
 # Server Rack
+
+<table>
+  <tr>
+    <th> U# </th> <th> device </th>
+  </tr>
+  <tr>
+    <tc> test </tc> 
+</table>
+
 | U# | Device |
 | -- | -- |
 | U42 | \
