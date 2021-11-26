@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <tr>
     <td> u37 </td>
     <td> pi rack bracket </td>
-    <td> <details> a bracket for holding raspberry pi's in a rack, the pi's are offline </details> </td>
+    <td> a bracket for holding raspberry pi's in a rack, the pi's are offline </td>
   </tr>
   <tr>
     <td> u36 </td>
@@ -203,18 +203,16 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u6 </td>
-    <td> </td>
-    <td> </td>
+    <td rowspan="2"> 2u ups </td>
+    <td rowspan="2"> CyberPower OR1500LCDRT2U w/ RMCARD205 </td>
   </tr>
   <tr>
     <td> u5 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u4 </td>
     <td rowspan="2"> 2u ups </td>
-    <td rowspan="2"> </td>
+    <td rowspan="2"> CyberPower OR1500LCDRT2U w/ RMCARD205 </td>
   </tr>
   <tr>
     <td> u3 </td>
