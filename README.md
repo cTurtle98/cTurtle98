@@ -64,16 +64,16 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u36 </td>
-    <td> </td>
-    <td> </td>
+    <td rowspan="2" > 2u shelf </td>
+    <td rowspan="2" > shelf with OTA TV Tuner on it and room for more non rackmount appliences </td>
   </tr>
   <tr>
     <td> u35 </td>
-    <td rowspan="8" > kvm monitor </td>
-    <td rowspan="8" > </td>
   </tr>
   <tr>
     <td> u34 </td>
+    <td rowspan="7" > kvm monitor </td>
+    <td rowspan="7" > </td>
   </tr>
   <tr>
     <td> u33 </td>
@@ -108,13 +108,9 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u25 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u24 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u23 </td>
@@ -204,7 +200,12 @@ Here are some ideas to get you started:
   <tr>
     <td> u6 </td>
     <td rowspan="2"> 2u ups </td>
-    <td rowspan="2"> CyberPower OR1500LCDRT2U w/ RMCARD205 </td>
+    <td rowspan="2"> 
+      CyberPower OR1500LCDRT2U w/ RMCARD205 
+      <details>
+        UPS for router, switches and other networking applience equipment.
+      </details>
+    </td>
   </tr>
   <tr>
     <td> u5 </td>
@@ -212,7 +213,12 @@ Here are some ideas to get you started:
   <tr>
     <td> u4 </td>
     <td rowspan="2"> 2u ups </td>
-    <td rowspan="2"> CyberPower OR1500LCDRT2U w/ RMCARD205 </td>
+    <td rowspan="2"> 
+      CyberPower OR1500LCDRT2U w/ RMCARD205 
+      <details>
+        UPS for servers (primary)
+      </details>
+    </td>
   </tr>
   <tr>
     <td> u3 </td>
