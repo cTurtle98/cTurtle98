@@ -114,7 +114,7 @@ Here are some ideas to get you started:
   <tr>
     <td> u24 </td>
     <td> server 5 dell r620 </td>
-    <td> </td>
+    <td> unused </td>
   </tr>
   <tr>
     <td> u23 </td>
@@ -123,10 +123,10 @@ Here are some ideas to get you started:
     <td> u22 </td>
     <td rowspan="4"> server 4 seaturtle </td>
     <td rowspan="4">
-    proxmox compute and storage node
+    TrueNAS Scale storage and compute node
     <details>
     <ul>
-      <li>TrueNAS Core OS</li>
+      <li>TrueNAS SCALE OS</li>
       <li>Rosewill 4U RSV-L4500 Chassis</li>
       <li>AMD Ryzen Threadripper 1950X</li>
       <li>Corsair VENGEANCE LPX 64GB (8x8GB) DDR4 2933 C16 memory</li>
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
     <td> u18 </td>
     <td rowspan="4"> server 3: 7700k </td>
     <td rowspan="4">
-      proxmox compute cluster node
+      Proxmox VE 7.1 Compute Node
       <details>
       <ul>
         <li>Proxmox VE 7.1 OS </li>
@@ -164,7 +164,7 @@ Here are some ideas to get you started:
     <td> u14 </td>
     <td rowspan="4"> server 2: 3800x </td>
     <td rowspan="4">
-      TrueNAS Scale main server
+      Proxmox VE 7.1 Compute Node
       <details>
       <ul>
         <li>Proxmox VE 7.1 OS</li>
@@ -185,7 +185,7 @@ Here are some ideas to get you started:
       backup target for all other servers
       <details>
         <ul>
-          <li> </li>
+          <li>TrueNAS Core OS</li>
           <li>SuperMicro 2U CSE-825 Server Chassis w/ 2x PSU, Backplane SAS825TQ, Rails,8x 3.5 </li>
           <li>Intel(R) Celeron(R) CPU G3930 @ 2.90GHz </li>
           <li>G.SKILL TridentZ Series 32GB (4 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 </li>
