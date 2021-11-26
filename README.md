@@ -126,7 +126,7 @@ Here are some ideas to get you started:
     proxmox compute and storage node
     <details>
     <ul>
-      <li>Proxmox VE OS</li>
+      <li>Proxmox VE 6.4 OS</li>
       <li>Rosewill 4U RSV-L4500 Chassis</li>
       <li>AMD Ryzen Threadripper 1950X</li>
       <li>Corsair VENGEANCE LPX 64GB (8x8GB) DDR4 2933 C16 memory</li>
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
       proxmox compute cluster node
       <details>
       <ul>
-        <li>Proxmox VE OS </li>
+        <li>Proxmox VE 6.4 OS </li>
         <li>Rosewill 4U RSV-R4000 Chassis </li>
         <li>Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz </li>
         <li>G.SKILL TridentZ Series 32GB (4 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 </li>
@@ -185,7 +185,7 @@ Here are some ideas to get you started:
       proxmox compute cluster node
       <details>
       <ul>
-        <li>Proxmox VE OS </li>
+        <li>Proxmox VE 6.4 OS </li>
         <li>Rosewill 4U RSV-R4000 Chassis </li>
         <li>AMD Ryzen 7 3800X 4.5ghz </li>
         <li>Corsair Vengeance LPX 32GB (4x8GB) DDR4 DRAM 3200MHz C16 </li>
