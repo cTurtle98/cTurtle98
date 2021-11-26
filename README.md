@@ -14,3 +14,55 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Server Rack
+
+U42
+U41
+U40
+U39
+U38
+U37
+U36
+U35
+U34
+U33
+U32
+U31
+U30
+U29
+U28
+U27
+U26
+U25
+U24
+U23
+U22
+U21
+U20
+U19
+U18
+U17
+U16
+U15
+U14
+U13
+U12
+U11
+U10
+U09
+U08
+U07
+U06
+U05
+U04
+U03
+
+U02 _
+U01 - 
+## 2U UPS
+<details>
+  APC DLA1500RM2U 
+</details>
+
