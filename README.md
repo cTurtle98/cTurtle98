@@ -126,7 +126,7 @@ Here are some ideas to get you started:
     proxmox compute and storage node
     <details>
     <ul>
-      <li>Proxmox VE 6.4 OS</li>
+      <li>TrueNAS Core OS</li>
       <li>Rosewill 4U RSV-L4500 Chassis</li>
       <li>AMD Ryzen Threadripper 1950X</li>
       <li>Corsair VENGEANCE LPX 64GB (8x8GB) DDR4 2933 C16 memory</li>
@@ -137,24 +137,15 @@ Here are some ideas to get you started:
     </ul>
     </details>
     </td>
-  </tr>
-  <tr>
-    <td> u21 </td>
-  </tr>
-  <tr>
-    <td> u20 </td>
-  </tr>
-  <tr>
-    <td> u19 </td>
-  </tr>
+  </tr><tr><td> u21 </td></tr><tr><td> u20 </td></tr><tr><td> u19 </td></tr>
   <tr>
     <td> u18 </td>
-    <td rowspan="4"> server 3 game </td>
+    <td rowspan="4"> server 3: 7700k </td>
     <td rowspan="4">
       proxmox compute cluster node
       <details>
       <ul>
-        <li>Proxmox VE 6.4 OS </li>
+        <li>Proxmox VE 7.1 OS </li>
         <li>Rosewill 4U RSV-R4000 Chassis </li>
         <li>Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz </li>
         <li>G.SKILL TridentZ Series 32GB (4 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 </li>
@@ -168,24 +159,15 @@ Here are some ideas to get you started:
       </ul>
       </details>
     </td>
-  </tr>
-  <tr>
-    <td> u17 </td>
-  </tr>
-  <tr>
-    <td> u16 </td>
-  </tr>
-  <tr>
-    <td> u15 </td>
-  </tr>
+  </tr><tr><td> u17 </td></tr><tr><td> u16 </td></tr><tr><td> u15 </td></tr>
   <tr>
     <td> u14 </td>
-    <td rowspan="4"> server 2 ryzen </td>
+    <td rowspan="4"> server 2: 3800x </td>
     <td rowspan="4">
       TrueNAS Scale main server
       <details>
       <ul>
-        <li>TrueNAS Scale OS </li>
+        <li>Proxmox VE 7.1 OS</li>
         <li>Rosewill 4U RSV-R4000 Chassis </li>
         <li>AMD Ryzen 7 3800X 4.5ghz </li>
         <li>Corsair Vengeance LPX 32GB (4x8GB) DDR4 DRAM 3200MHz C16 </li>
@@ -195,16 +177,7 @@ Here are some ideas to get you started:
       </ul>
       </details>
     </td>
-  </tr>
-  <tr>
-    <td> u13 </td>
-  </tr>
-  <tr>
-    <td> u12 </td>
-  </tr>
-  <tr>
-    <td> u11 </td>
-  </tr>
+  </tr><tr><td> u13 </td></tr><tr><td> u12 </td></tr><tr><td> u11 </td></tr>
   <tr>
     <td> u10 </td>
     <td rowspan="2"> server 1 backup </td>
@@ -212,7 +185,7 @@ Here are some ideas to get you started:
       backup target for all other servers
       <details>
         <ul>
-          <li>TrueNAS Core OS </li>
+          <li> </li>
           <li>SuperMicro 2U CSE-825 Server Chassis w/ 2x PSU, Backplane SAS825TQ, Rails,8x 3.5 </li>
           <li>Intel(R) Celeron(R) CPU G3930 @ 2.90GHz </li>
           <li>G.SKILL TridentZ Series 32GB (4 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 </li>
