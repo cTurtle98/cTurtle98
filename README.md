@@ -170,6 +170,7 @@ Here are some ideas to get you started:
         Intel(R) Celeron(R) CPU G3930 @ 2.90GHz <br>
         G.SKILL TridentZ Series 32GB (4 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 <br>
         ASRock B250M PRO4 Motherboard <br>
+        Mellanox MCX311A-XCAT CX311A ConnectX-3 EN 10G Ethernet 10GbE SFP+ PCIe NIC <br>
         H220 6Gbps SAS PCI-E 3.0 LSI 9205-8i IT Mode <br>
         8x HGST Ultrastar He8 8TB, Internal,7200 RPM,3.5 inch (HUH728080AL4200) Hard Drive <br>
         ADATA SU800 128GB M.2 2280 SATA 3D NAND Internal SSD (boot ssd)
