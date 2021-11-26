@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <tc> test </tc> 
+  </tr>
 </table>
 
 | U# | Device |
