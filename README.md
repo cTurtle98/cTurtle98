@@ -1,4 +1,7 @@
-### Hi there 👋
+
+# cTurtle98
+
+## Hi there 👋
 
 <!--
 **cTurtle98/cTurtle98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,26 +18,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 # Server Rack
 
 <table>
   <tr>
-    <th> U# </th> 
+    <th> U# </th>
     <th> purpose </th>
     <th> device </th>
   </tr>
   <tr>
-    <td> u42 </td> 
+    <td> u42 </td>
     <td> pfsense Router </td>
-    <td> 
-      Dell r210ii 
-      <details>
+    <td>
+      Dell r210ii
+      <!-- <details> -->
         Intel(R) Xeon(R) CPU E31220L @ 2.20GHz <br>
         8GB (4x2GB) DDR3-1333 MT/s ECC U-DIMM Unbuffered <br>
         Melanox ConnectX 3 10G sfp+ NIC <br>
         10G lc fiber sfp+ module
-      </details> 
+      <!-- </details> -->
     </td>
   </tr>
   <tr>
@@ -119,7 +121,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u22 </td>
-    <td rowspan="4"> server 4 truenas </td>
+    <td rowspan="4"> server 4 seaturtle </td>
     <td rowspan="4"> </td>
   </tr>
   <tr>
@@ -135,7 +137,22 @@ Here are some ideas to get you started:
     <td> u18 </td>
     <td rowspan="4"> server 3 game </td>
     <td rowspan="4">
-      
+      proxmox compute cluster node
+      <!-- <details> -->
+      <ul>
+        <li>Proxmox VE OS </li>
+        <li>Rosewill 4U RSV-R4000 Chassis </li>
+        <li>Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz </li>
+        <li>G.SKILL TridentZ Series 32GB (4 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 </li>
+        <li>ASRock Z270 KILLER SLI/AC LGA 1151 Intel Z270 </li>
+        <li>Mellanox MCX311A-XCAT CX311A ConnectX-3 EN 10G Ethernet 10GbE SFP+ PCIe NIC </li>
+        <li>2x Intel SSD 600p Series (512GB, M.2 2280 80mm NVMe PCIe 3.0 x4, 3D1, TLC) (proxmox boot drive) </li>
+        <li>H220 6Gbps SAS PCI-E 3.0 LSI 9205-8i IT Mode </li>
+        <li>9x HGST Ultrastar 7K3000 HUA723030ALA641 3.5in 3TB SATA 6.0Gb/s 7200RPM 64MB Cache Hard Drive</li>
+        <li>LG Electronics 14x SATA Blu-ray Internal Rewriter (WH14NS40) </li>
+        <li>LG WH16NS40 Blu-ray Rewriter 16x Speed</li>
+      </ul>
+      <!-- </details> -->
     </td>
   </tr>
   <tr>
@@ -152,9 +169,17 @@ Here are some ideas to get you started:
     <td rowspan="4"> server 2 ryzen </td>
     <td rowspan="4">
       proxmox compute cluster node
-      <details>
-        Rosewill 4U RSV-R4000 Chassis <br>
-      </details>
+      <!-- <details> -->
+      <ul>
+        <li>Proxmox VE OS </li>
+        <li>Rosewill 4U RSV-R4000 Chassis </li>
+        <li>AMD Ryzen 7 3800X 4.5ghz </li>
+        <li>Corsair Vengeance LPX 32GB (4x8GB) DDR4 DRAM 3200MHz C16 </li>
+        <li>AsRock Rack X470D4U Micro ATX Server Motherboard </li>
+        <li>2x Crucial P2 1TB 3D NAND NVMe PCIe M.2 SSD (boot drive)</li>
+        <li>Mellanox MCX311A-XCAT CX311A ConnectX-3 EN 10G Ethernet 10GbE SFP+ PCIe NIC </li>
+      </ul>
+      <!-- </details> -->
     </td>
   </tr>
   <tr>
@@ -169,19 +194,21 @@ Here are some ideas to get you started:
   <tr>
     <td> u10 </td>
     <td rowspan="2"> server 1 backup </td>
-    <td rowspan="2"> 
+    <td rowspan="2">
       backup target for all other servers
-      <details>
-        TrueNAS Core OS <br>
-        SuperMicro 2U CSE-825 Server Chassis w/ 2x PSU, Backplane SAS825TQ, Rails,8x 3.5 <br>
-        Intel(R) Celeron(R) CPU G3930 @ 2.90GHz <br>
-        G.SKILL TridentZ Series 32GB (4 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 <br>
-        ASRock B250M PRO4 Motherboard <br>
-        Mellanox MCX311A-XCAT CX311A ConnectX-3 EN 10G Ethernet 10GbE SFP+ PCIe NIC <br>
-        H220 6Gbps SAS PCI-E 3.0 LSI 9205-8i IT Mode <br>
-        8x HGST Ultrastar He8 8TB, Internal,7200 RPM,3.5 inch (HUH728080AL4200) Hard Drive <br>
-        ADATA SU800 128GB M.2 2280 SATA 3D NAND Internal SSD (boot ssd)
-      </details>
+      <!-- <details> -->
+        <ul>
+          <li>TrueNAS Core OS </li>
+          <li>SuperMicro 2U CSE-825 Server Chassis w/ 2x PSU, Backplane SAS825TQ, Rails,8x 3.5 </li>
+          <li>Intel(R) Celeron(R) CPU G3930 @ 2.90GHz </li>
+          <li>G.SKILL TridentZ Series 32GB (4 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 </li>
+          <li>ASRock B250M PRO4 Motherboard </li>
+          <li>ADATA SU800 128GB M.2 2280 SATA 3D NAND Internal SSD (boot ssd)</li>
+          <li>Mellanox MCX311A-XCAT CX311A ConnectX-3 EN 10G Ethernet 10GbE SFP+ PCIe NIC </li>
+          <li>H220 6Gbps SAS PCI-E 3.0 LSI 9205-8i IT Mode </li>
+          <li>8x HGST Ultrastar He8 8TB, Internal,7200 RPM,3.5 inch (HUH728080AL4200) Hard Drive </li>
+        <ul>
+      <!-- </details> -->
     </td>
   </tr>
   <tr>
@@ -198,11 +225,9 @@ Here are some ideas to get you started:
   <tr>
     <td> u6 </td>
     <td rowspan="2"> 2u ups </td>
-    <td rowspan="2"> 
-      CyberPower OR1500LCDRT2U w/ RMCARD205 
-      <details>
-        UPS for router, switches and other networking applience equipment.
-      </details>
+    <td rowspan="2">
+      CyberPower OR1500LCDRT2U w/ RMCARD205 <br>
+      UPS for router, switches and other networking applience equipment.
     </td>
   </tr>
   <tr>
@@ -211,11 +236,9 @@ Here are some ideas to get you started:
   <tr>
     <td> u4 </td>
     <td rowspan="2"> 2u ups </td>
-    <td rowspan="2"> 
-      CyberPower OR1500LCDRT2U w/ RMCARD205 
-      <details>
-        UPS for servers (primary)
-      </details>
+    <td rowspan="2">
+      CyberPower OR1500LCDRT2U w/ RMCARD205 <br>
+      UPS for servers (primary)
     </td>
   </tr>
   <tr>
@@ -224,7 +247,10 @@ Here are some ideas to get you started:
   <tr>
     <td> u2 </td>
     <td rowspan="2" > 2u ups </td>
-    <td rowspan="2" > APC DLA1500RM2U <details> secondary ups for dual psu servers </details> </td>
+    <td rowspan="2" >
+     APC DLA1500RM2U <br>
+     secondary ups for dual psu servers
+    </td>
   </tr>
   <tr>
     <td> u1 </td>
