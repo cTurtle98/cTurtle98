@@ -122,7 +122,21 @@ Here are some ideas to get you started:
   <tr>
     <td> u22 </td>
     <td rowspan="4"> server 4 seaturtle </td>
-    <td rowspan="4"> </td>
+    <td rowspan="4">
+    proxmox compute node
+    <!-- <details> -->
+    <ul>
+      <li>Proxmox VE OS</li>
+      <li>Rosewill 4U RSV-L4500 Chassis</li>
+      <li>AMD Ryzen Threadripper 1950X</li>
+      <li>Corsair VENGEANCE LPX 64GB (8x8GB) DDR4 2933 C16 memory</li>
+      <li>ASRock Fatal1ty X399 Professional Gaming sTR4</li>
+      <li>2x Intel 660p Series M.2 2280 1TB PCIe NVMe 3.0 x4 QLC SSD</li>
+      <li>4x HGST Deskstar NAS 3.5" 8TB 7200 RPM 128MB Cache SATA 6.0Gb/s</li>
+      <li>4x 8TB SATA Hard Drive HUH721008ALN600 4Kn</li>
+    </ul>
+    <!-- </details> -->
+    </td>
   </tr>
   <tr>
     <td> u21 </td>
