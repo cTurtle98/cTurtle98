@@ -72,8 +72,8 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u34 </td>
-    <td rowspan="7" > kvm monitor </td>
-    <td rowspan="7" > </td>
+    <td rowspan="6" > kvm monitor </td>
+    <td rowspan="6" > </td>
   </tr>
   <tr>
     <td> u33 </td>
@@ -92,14 +92,11 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u28 </td>
-  </tr>
-  <tr>
-    <td> u27 </td>
     <td> kvm switcher </td>
     <td> startech SV831DUSBU </td>
   </tr>
   <tr>
-    <td> u26 </td>
+    <td> u27 </td>
     <td> kvm keyboard and drawer </td>
     <td>
       Adesso AKB-425UB Rackmount USB Keyboard <br>
@@ -107,79 +104,64 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
+    <td> u26 </td>
+  </tr>
+  <tr>
     <td> u25 </td>
   </tr>
   <tr>
     <td> u24 </td>
+    <td> server 5 dell r620 </td>
+    <td> </td>
   </tr>
   <tr>
     <td> u23 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u22 </td>
-    <td> </td>
-    <td> </td>
+    <td rowspan="4"> server 4 truenas </td>
+    <td rowspan="4"> </td>
   </tr>
   <tr>
     <td> u21 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u20 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u19 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u18 </td>
-    <td> </td>
-    <td> </td>
+    <td rowspan="4"> server 3 game </td>
+    <td rowspan="4"> </td>
   </tr>
   <tr>
     <td> u17 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u16 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u15 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u14 </td>
-    <td> </td>
-    <td> </td>
+    <td rowspan="4"> server 2 ryzen </td>
+    <td rowspan="4"> </td>
   </tr>
   <tr>
     <td> u13 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u12 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u11 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u10 </td>
-    <td rowspan="2"> backup server </td>
+    <td rowspan="2"> server 1 backup </td>
     <td rowspan="2"> 
       backup target for all other servers
       <details>
