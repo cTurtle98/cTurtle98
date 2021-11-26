@@ -179,23 +179,31 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u10 </td>
-    <td> </td>
-    <td> </td>
+    <td rowspan="2"> backup server </td>
+    <td rowspan="2"> 
+      backup target for all other servers
+      <details>
+        TrueNAS Core OS <br>
+        SuperMicro 2U CSE-825 Server Chassis w/ 2x PSU, Backplane SAS825TQ, Rails,8x 3.5 <br>
+        Intel(R) Celeron(R) CPU G3930 @ 2.90GHz <br>
+        G.SKILL TridentZ Series 32GB (4 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 <br>
+        ASRock B250M PRO4 Motherboard <br>
+        H220 6Gbps SAS PCI-E 3.0 LSI 9205-8i IT Mode <br>
+        8x HGST Ultrastar He8 8TB, Internal,7200 RPM,3.5 inch (HUH728080AL4200) Hard Drive <br>
+        ADATA SU800 128GB M.2 2280 SATA 3D NAND Internal SSD (boot ssd)
+      </details>
+    </td>
   </tr>
   <tr>
     <td> u9 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u8 </td>
-    <td> </td>
-    <td> </td>
+    <td rowspan="2" > 2u drawer</td>
+    <td rowspan="2" > cold spares </td>
   </tr>
   <tr>
     <td> u7 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u6 </td>
