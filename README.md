@@ -134,7 +134,9 @@ Here are some ideas to get you started:
   <tr>
     <td> u18 </td>
     <td rowspan="4"> server 3 game </td>
-    <td rowspan="4"> </td>
+    <td rowspan="4">
+      
+    </td>
   </tr>
   <tr>
     <td> u17 </td>
@@ -148,7 +150,12 @@ Here are some ideas to get you started:
   <tr>
     <td> u14 </td>
     <td rowspan="4"> server 2 ryzen </td>
-    <td rowspan="4"> </td>
+    <td rowspan="4">
+      proxmox compute cluster node
+      <details>
+        Rosewill 4U RSV-R4000 Chassis <br>
+      </details>
+    </td>
   </tr>
   <tr>
     <td> u13 </td>
