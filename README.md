@@ -59,5 +59,7 @@ U05
 U04
 U03
 
-| U02 <br> U01 | <h2> 2U UPS </h2> <details> APC DLA1500RM2U  </details>
+| U# | Device |
+| -- | -- |
+| U02 <br> U01 | <b> 2U UPS </b> <details> APC DLA1500RM2U  </details> |
 
