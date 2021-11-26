@@ -121,7 +121,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u22 </td>
-    <td rowspan="4"> server 4 seaturtle </td>
+    <td rowspan="4"> server 4: seaturtle </td>
     <td rowspan="4">
     TrueNAS Scale storage and compute node
     <details>
