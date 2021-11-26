@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 # Server Rack
 
-U42
-U41
-U40
-U39
-U38
-U37
-U36
-U35
-U34
-U33
+| U42
+| U41
+| U40
+| U39
+| U38
+| U37
+| U36
+| U35
+| U34
+| U33
 U32
 U31
 U30
@@ -59,10 +59,5 @@ U05
 U04
 U03
 
-U02 _
-U01 - 
-## 2U UPS
-<details>
-  APC DLA1500RM2U 
-</details>
+| U02 <br> U01 | <h2> 2U UPS </h2> <details> APC DLA1500RM2U  </details>
 
