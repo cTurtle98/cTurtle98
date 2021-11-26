@@ -20,29 +20,35 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th> U# </th> <th> device </th>
+    <th> U# </th> 
+    <th> catagory </th>
+    <th> device </th>
   </tr>
   <tr>
-    <td> test </td> 
+    <td> u42 </td> 
+    <td> pfsense Router >/td>
+    <td> <details> Dell r210ii </details> </td>
+  </tr>
+  <tr>
+    <td> u </td>
+    <td> </td>
+    <td> </td>
   </tr>
 </table>
 
 | U# | Device |
 | -- | -- |
 | U42 | \
-<b> pfsense Router </b> \
-<details> Dell r210ii </details>
-  
-  
-| U41
-| U40
-| U39
-| U38
-| U37
-| U36
-| U35
-| U34
-| U33
+
+U41
+U40
+U39
+U38
+U37
+U36
+U35
+U34
+U33
 U32
 U31
 U30
