@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <th> U# </th> <th> device </th>
   </tr>
   <tr>
-    <tc> test </tc> 
+    <td> test </td> 
   </tr>
 </table>
 
