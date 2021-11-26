@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <th> U# </th> 
-    <th> catagory </th>
+    <th> purpose </th>
     <th> device </th>
   </tr>
   <tr>
@@ -30,35 +30,35 @@ Here are some ideas to get you started:
     <td> 
       Dell r210ii 
       <details>
-        * Intel(R) Xeon(R) CPU E31220L @ 2.20GHz
+        * Intel(R) Xeon(R) CPU E31220L @ 2.20GHz <br>
         * ram
       </details> 
     </td>
   </tr>
   <tr>
     <td> u41 </td>
-    <td> </td>
-    <td> </td>
+    <td> 10G switch </td>
+    <td> CRS317-1G-16S+RM </td>
   </tr>
   <tr>
     <td> u40 </td>
-    <td> </td>
+    <td> 10g patch panel </td>
     <td> </td>
   </tr>
   <tr>
     <td> u39 </td>
-    <td> </td>
+    <td> 1g patch panel </td>
     <td> </td>
   </tr>
   <tr>
     <td> u38 </td>
-    <td> </td>
-    <td> </td>
+    <td> 1g poe switch </td>
+    <td> CRS328-24P-4S+RM </td>
   </tr>
   <tr>
     <td> u37 </td>
-    <td> </td>
-    <td> </td>
+    <td> pi rack bracket </td>
+    <td> <details> a bracket for holding raspberry pi's in a rack, the pi's are offline </details> </td>
   </tr>
   <tr>
     <td> u36 </td>
@@ -67,43 +67,29 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u35 </td>
-    <td> </td>
-    <td> </td>
+    <td rowspan="8" > kvm monitor </td>
+    <td rowspan="8" > </td>
   </tr>
   <tr>
     <td> u34 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u33 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u32 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u31 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u30 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u29 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u28 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u27 </td>
