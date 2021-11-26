@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 
 
 # Server Rack
-
-| U42
+| U# | Device |
+| -- | -- |
+| U42 | \
+<b> pfsense Router </b> \
+<details> Dell r210ii 
+  
+  
 | U41
 | U40
 | U39
@@ -59,7 +64,5 @@ U05
 U04
 U03
 
-| U# | Device |
-| -- | -- |
 | U02 <br> U01 | <b> 2U UPS </b> <details> APC DLA1500RM2U  </details> |
 
