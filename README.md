@@ -27,7 +27,13 @@ Here are some ideas to get you started:
   <tr>
     <td> u42 </td> 
     <td> pfsense Router </td>
-    <td> <details> Dell r210ii </details> </td>
+    <td> 
+      Dell r210ii 
+      <details>
+        * Intel(R) Xeon(R) CPU E31220L @ 2.20GHz
+        * ram
+      </details> 
+    </td>
   </tr>
   <tr>
     <td> u41 </td>
