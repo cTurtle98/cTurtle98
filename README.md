@@ -182,10 +182,10 @@ Here are some ideas to get you started:
     <td> u14 </td>
     <td rowspan="4"> server 2 ryzen </td>
     <td rowspan="4">
-      proxmox compute cluster node
+      TrueNAS Scale main server
       <details>
       <ul>
-        <li>Proxmox VE 6.4 OS </li>
+        <li>TrueNAS Scale OS </li>
         <li>Rosewill 4U RSV-R4000 Chassis </li>
         <li>AMD Ryzen 7 3800X 4.5ghz </li>
         <li>Corsair Vengeance LPX 32GB (4x8GB) DDR4 DRAM 3200MHz C16 </li>
