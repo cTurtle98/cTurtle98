@@ -208,69 +208,18 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u4 </td>
-    <td> </td>
-    <td> </td>
+    <td rowspan="2"> 2u ups </td>
+    <td rowspan="2"> </td>
   </tr>
   <tr>
     <td> u3 </td>
-    <td> </td>
-    <td> </td>
   </tr>
   <tr>
     <td> u2 </td>
-    <td> </td>
-    <td> </td>
+    <td rowspan="2" > 2u ups </td>
+    <td rowspan="2" > APC DLA1500RM2U <details> secondary ups for dual psu servers </details> </td>
   </tr>
   <tr>
     <td> u1 </td>
-    <td> </td>
-    <td> </td>
   </tr>
 </table>
-
-| U# | Device |
-| -- | -- |
-| U42 | \
-
-U41
-U40
-U39
-U38
-U37
-U36
-U35
-U34
-U33
-U32
-U31
-U30
-U29
-U28
-U27
-U26
-U25
-U24
-U23
-U22
-U21
-U20
-U19
-U18
-U17
-U16
-U15
-U14
-U13
-U12
-U11
-U10
-U09
-U08
-U07
-U06
-U05
-U04
-U03
-
-| U02 <br> U01 | <b> 2U UPS </b> <details> APC DLA1500RM2U  </details> |
-
