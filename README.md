@@ -26,11 +26,211 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u42 </td> 
-    <td> pfsense Router >/td>
+    <td> pfsense Router </td>
     <td> <details> Dell r210ii </details> </td>
   </tr>
   <tr>
-    <td> u </td>
+    <td> u41 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u40 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u39 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u38 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u37 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u36 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u35 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u34 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u33 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u32 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u31 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u30 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u29 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u28 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u27 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u26 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u25 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u24 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u23 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u22 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u21 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u20 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u19 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u18 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u17 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u16 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u15 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u14 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u13 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u12 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u11 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u10 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u9 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u8 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u7 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u6 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u5 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u4 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u3 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u2 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> u1 </td>
     <td> </td>
     <td> </td>
   </tr>
