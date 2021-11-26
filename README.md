@@ -31,12 +31,12 @@ Here are some ideas to get you started:
     <td> pfsense Router </td>
     <td>
       Dell r210ii
-      <!-- <details> -->
+      <details>
         Intel(R) Xeon(R) CPU E31220L @ 2.20GHz <br>
         8GB (4x2GB) DDR3-1333 MT/s ECC U-DIMM Unbuffered <br>
         Melanox ConnectX 3 10G sfp+ NIC <br>
         10G lc fiber sfp+ module
-      <!-- </details> -->
+      </details>
     </td>
   </tr>
   <tr>
@@ -124,7 +124,7 @@ Here are some ideas to get you started:
     <td rowspan="4"> server 4 seaturtle </td>
     <td rowspan="4">
     proxmox compute node
-    <!-- <details> -->
+    <details>
     <ul>
       <li>Proxmox VE OS</li>
       <li>Rosewill 4U RSV-L4500 Chassis</li>
@@ -135,7 +135,7 @@ Here are some ideas to get you started:
       <li>4x HGST Deskstar NAS 3.5" 8TB 7200 RPM 128MB Cache SATA 6.0Gb/s</li>
       <li>4x 8TB SATA Hard Drive HUH721008ALN600 4Kn</li>
     </ul>
-    <!-- </details> -->
+    </details>
     </td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ Here are some ideas to get you started:
     <td rowspan="4"> server 3 game </td>
     <td rowspan="4">
       proxmox compute cluster node
-      <!-- <details> -->
+      <details>
       <ul>
         <li>Proxmox VE OS </li>
         <li>Rosewill 4U RSV-R4000 Chassis </li>
@@ -166,7 +166,7 @@ Here are some ideas to get you started:
         <li>LG Electronics 14x SATA Blu-ray Internal Rewriter (WH14NS40) </li>
         <li>LG WH16NS40 Blu-ray Rewriter 16x Speed</li>
       </ul>
-      <!-- </details> -->
+      </details>
     </td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ Here are some ideas to get you started:
     <td rowspan="4"> server 2 ryzen </td>
     <td rowspan="4">
       proxmox compute cluster node
-      <!-- <details> -->
+      <details>
       <ul>
         <li>Proxmox VE OS </li>
         <li>Rosewill 4U RSV-R4000 Chassis </li>
@@ -193,7 +193,7 @@ Here are some ideas to get you started:
         <li>2x Crucial P2 1TB 3D NAND NVMe PCIe M.2 SSD (boot drive)</li>
         <li>Mellanox MCX311A-XCAT CX311A ConnectX-3 EN 10G Ethernet 10GbE SFP+ PCIe NIC </li>
       </ul>
-      <!-- </details> -->
+      </details>
     </td>
   </tr>
   <tr>
@@ -210,7 +210,7 @@ Here are some ideas to get you started:
     <td rowspan="2"> server 1 backup </td>
     <td rowspan="2">
       backup target for all other servers
-      <!-- <details> -->
+      <details>
         <ul>
           <li>TrueNAS Core OS </li>
           <li>SuperMicro 2U CSE-825 Server Chassis w/ 2x PSU, Backplane SAS825TQ, Rails,8x 3.5 </li>
@@ -222,7 +222,7 @@ Here are some ideas to get you started:
           <li>H220 6Gbps SAS PCI-E 3.0 LSI 9205-8i IT Mode </li>
           <li>8x HGST Ultrastar He8 8TB, Internal,7200 RPM,3.5 inch (HUH728080AL4200) Hard Drive </li>
         <ul>
-      <!-- </details> -->
+      </details>
     </td>
   </tr>
   <tr>
