@@ -27,5 +27,5 @@ Global plugins for all cturtle98 minecraft server network servers
   * EssentialsX AntiBuild
   * EssentialsX Geo
   * EssentialsX Protect
- * DiscordSRV
+ * [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
 
