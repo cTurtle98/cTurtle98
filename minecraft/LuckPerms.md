@@ -1,12 +1,9 @@
-# Luckperms 
+# LuckPerms 
 
 luckperms minecraft server bukkit plugin refrence
 
-## LuckPerms
 
-luckperms plugin config needs these edits
-
-`plugins/LuckPerms/config.yml`
+luckperms plugin config needs these edits `plugins/LuckPerms/config.yml`
 ```yaml
 server: <ServerName>
 
