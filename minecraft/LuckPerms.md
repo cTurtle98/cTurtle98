@@ -8,7 +8,7 @@ luckperms plugin config needs these edits
 
 `plugins/LuckPerms/config.yml`
 ```yaml
-server: bungee
+server: <ServerName>
 
 storage-method: mariadb
 
