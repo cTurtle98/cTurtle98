@@ -23,10 +23,10 @@ Global plugins for all cturtle98 minecraft server network servers
 
 * [EssentialsX](https://essentialsx.net/downloads.html?branch=stable)
 
-* * EssentialsX Chat
-* * EssentialsX Spawn
-* * EssentialsX AntiBuild
-* * EssentialsX Discord
-* * EssentialsX Geo
-* * EssentialsX Protect
+  * EssentialsX Chat
+  * EssentialsX Spawn
+  * EssentialsX AntiBuild
+  * EssentialsX Discord
+  * EssentialsX Geo
+  * EssentialsX Protect
 
