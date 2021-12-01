@@ -22,11 +22,8 @@ Global plugins for all cturtle98 minecraft server network servers
 * [Vault](https://www.spigotmc.org/resources/vault.34315/)
 
 * [EssentialsX](https://essentialsx.net/downloads.html?branch=stable)
-
-<!--  * EssentialsX Chat -->
   * EssentialsX Spawn
   * EssentialsX AntiBuild
-<!--  * EssentialsX Discord -->
   * EssentialsX Geo
   * EssentialsX Protect
 
