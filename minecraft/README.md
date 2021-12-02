@@ -7,6 +7,10 @@ information for mc.cTurtle98.com minecraft server network
 
 Global plugins for all cturtle98 minecraft server network servers
 
+lobby plugin configuration checklist
+[x] Luckperms-bukkit
+[x] DiscordSRV
+
 ### bungeecord
 
 * [LuckPerms-bungeecord](https://luckperms.net/download)
@@ -29,27 +33,67 @@ Global plugins for all cturtle98 minecraft server network servers
   * EssentialsX Protect
  * [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
 
+
 ## Permissions
-permissions and groups
+
+groups and permissions
+
+plugin permissions implementation checklist
+[x] bungeecord
+[x] spigot / bukkit
+[x] minecraft
+[x] discordsrv
+
 
 ### Network_Owner
-* bungeecord.command.*
-* luckperms.*
+* bungeecord.command.* : true
+* luckperms.* : true
 * 
 
 ### Network_SuperAdmin
+* bukkit.command.restart : false
+* minecraft.command.* : true
+* discordsrv.updatenotification : true
 * 
 
 ### Network_Admin
-* bungeecord.command.alert
-* bungeecord.command.ip
+* bungeecord.command.alert : true
+* bungeecord.command.ip : true
+* bukkit.command.tps : true
+* bukkit.command.timings : true
+* minecraft.command.say	: true
+* discordsrv.reload : true
+* discordsrv.debug : true
+* 
 
 ### Network_Mod
-* bungeecord.command.find
-* bungeecord.command.send
+* bungeecord.command.find : true
+* bungeecord.command.send : true
+* bukkit.command.version	: true
+* minecraft.command.kick	: true
+* minecraft.command.save-all	: true
+* minecraft.command.spawnpoint	: true
+* discordsrv.resync : true
+* discordsrv.link.others : true
+* discordsrv.unlink.others : true
+* discordsrv.linked.others : true
+* discordsrv.groupsyncwithcommands : true
+* discordsrv.resync : true
+* discordsrv.nicknamesync : true
+* essentials.afk.others : true
 * 
 
 ### Network_Member
-* bungeecord.command.list
-* bungeecord.command.server
+* bungeecord.command.list : true
+* bungeecord.command.server : true
+* bukkit.command.plugins	true
+* minecraft.command.list	: true
+* minecraft.command.seed	: true
 * 
+
+### default
+* bungeecord.command.reload: false
+* bukkit.command.version	: false
+* bukkit.command.plugins	: false
+* discordsrv.player : true
+* discordsrv.sync.Network_Member : true
