@@ -21,12 +21,22 @@ Global plugins for all cturtle98 minecraft server network servers
 
 **creative** plugin configuration checklist
 - [x] luckperms-spigot
+- [x] DiscordSRV
+- [ ] ViaVersion
+- [ ] CoreProtect
+- [ ] Vault
+- [ ] EssentialsX
+- [x] EssentialsX Geo
+
+**survival** plugin configuration checklist
+- [x] luckperms-spigot
 - [ ] DiscordSRV
 - [ ] ViaVersion
 - [ ] CoreProtect
 - [ ] Vault
 - [ ] EssentialsX
 - [ ] EssentialsX Geo
+
 
 ### bungeecord
 
