@@ -8,9 +8,14 @@ information for mc.cTurtle98.com minecraft server network
 Global plugins for all cturtle98 minecraft server network servers
 
 lobby plugin configuration checklist
-
-- [x] Luckperms-bukkit
+- [x] Luckperms-bungee
+- [ ] luckperms-spigot
 - [x] DiscordSRV
+- [ ] ViaVersion
+- [ ] CoreProtect
+- [x] Vailt
+- [ ] EssentialsX
+- [x] EssentialsX Geo
 
 ### bungeecord
 
@@ -44,6 +49,9 @@ plugin permissions implementation checklist
 - [x] spigot / bukkit
 - [x] minecraft
 - [x] discordsrv
+- [ ] luckperms
+- [ ] essentialsx
+- [ ] core protect
 
 
 ### Network_Owner
