@@ -30,7 +30,7 @@ Global plugins for all cturtle98 minecraft server network servers
 
 **survival** plugin configuration checklist
 - [x] luckperms-spigot
-- [ ] DiscordSRV
+- [x] DiscordSRV
 - [ ] ViaVersion
 - [ ] CoreProtect
 - [ ] Vault
