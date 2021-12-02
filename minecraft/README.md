@@ -87,14 +87,15 @@ plugin permissions implementation checklist
 ### Network_Member
 * bungeecord.command.list : true
 * bungeecord.command.server : true
-* bukkit.command.plugins	true
+* bukkit.command.plugins :	true
 * minecraft.command.list	: true
 * minecraft.command.seed	: true
 * 
 
 ### default
-* bungeecord.command.reload: false
+* bungeecord.command.reload : false
 * bukkit.command.version	: false
 * bukkit.command.plugins	: false
 * discordsrv.player : true
 * discordsrv.sync.Network_Member : true
+* 
