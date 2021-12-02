@@ -9,9 +9,8 @@ Global plugins for all cturtle98 minecraft server network servers
 
 lobby plugin configuration checklist
 
-[x] Luckperms-bukkit
-
-[x] DiscordSRV
+- [x] Luckperms-bukkit
+- [x] DiscordSRV
 
 ### bungeecord
 
@@ -41,10 +40,10 @@ lobby plugin configuration checklist
 groups and permissions
 
 plugin permissions implementation checklist
-[x] bungeecord
-[x] spigot / bukkit
-[x] minecraft
-[x] discordsrv
+- [x] bungeecord
+- [x] spigot / bukkit
+- [x] minecraft
+- [x] discordsrv
 
 
 ### Network_Owner
