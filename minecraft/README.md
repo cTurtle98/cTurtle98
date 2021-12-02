@@ -29,3 +29,27 @@ Global plugins for all cturtle98 minecraft server network servers
   * EssentialsX Protect
  * [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
 
+## Permissions
+permissions and groups
+
+### Network_Owner
+* bungeecord.command.*
+* luckperms.*
+* 
+
+### Network_SuperAdmin
+* 
+
+### Network_Admin
+* bungeecord.command.alert
+* bungeecord.command.ip
+
+### Network_Mod
+* bungeecord.command.find
+* bungeecord.command.send
+* 
+
+### Network_Member
+* bungeecord.command.list
+* bungeecord.command.server
+* 
