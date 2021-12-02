@@ -8,7 +8,9 @@ information for mc.cTurtle98.com minecraft server network
 Global plugins for all cturtle98 minecraft server network servers
 
 lobby plugin configuration checklist
+
 [x] Luckperms-bukkit
+
 [x] DiscordSRV
 
 ### bungeecord
