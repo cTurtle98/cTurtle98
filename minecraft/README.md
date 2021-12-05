@@ -10,6 +10,12 @@ Global plugins for all cturtle98 minecraft server network servers
 **bungee** plugin configuration checklist
 - [x] Luckperms-bungee
 
+
+### bungeecord
+
+* [LuckPerms-bungeecord](https://luckperms.net/download)
+
+
 **lobby** plugin configuration checklist
 - [x] luckperms-spigot
 - [x] DiscordSRV
@@ -37,10 +43,6 @@ Global plugins for all cturtle98 minecraft server network servers
 - [ ] EssentialsX
 - [ ] EssentialsX Geo
 
-
-### bungeecord
-
-* [LuckPerms-bungeecord](https://luckperms.net/download)
 
 ### bukkit, spigot, paper
 
