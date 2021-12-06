@@ -114,97 +114,70 @@ Here are some ideas to get you started:
   <tr>
     <td> u24 </td>
     <td> server 5 dell r620 </td>
-    <td> </td>
+    <td> unused </td>
   </tr>
   <tr>
     <td> u23 </td>
   </tr>
   <tr>
     <td> u22 </td>
-    <td rowspan="4"> server 4 seaturtle </td>
+    <td rowspan="4"> server 4: seaturtle </td>
     <td rowspan="4">
-    proxmox compute and storage node
+    TrueNAS Scale storage and compute node
     <details>
     <ul>
-      <li>Proxmox VE 6.4 OS</li>
+      <li>TrueNAS SCALE OS</li>
       <li>Rosewill 4U RSV-L4500 Chassis</li>
       <li>AMD Ryzen Threadripper 1950X</li>
       <li>Corsair VENGEANCE LPX 64GB (8x8GB) DDR4 2933 C16 memory</li>
       <li>ASRock Fatal1ty X399 Professional Gaming sTR4</li>
-      <li>2x Intel 660p Series M.2 2280 1TB PCIe NVMe 3.0 x4 QLC SSD</li>
+      <li>2x Intel SSD 600p Series (512GB, M.2 2280 80mm NVMe PCIe 3.0 x4, 3D1, TLC)</li>
       <li>4x HGST Deskstar NAS 3.5" 8TB 7200 RPM 128MB Cache SATA 6.0Gb/s</li>
       <li>4x 8TB SATA Hard Drive HUH721008ALN600 4Kn</li>
     </ul>
     </details>
     </td>
-  </tr>
-  <tr>
-    <td> u21 </td>
-  </tr>
-  <tr>
-    <td> u20 </td>
-  </tr>
-  <tr>
-    <td> u19 </td>
-  </tr>
+  </tr><tr><td> u21 </td></tr><tr><td> u20 </td></tr><tr><td> u19 </td></tr>
   <tr>
     <td> u18 </td>
-    <td rowspan="4"> server 3 game </td>
+    <td rowspan="4"> server 3: 7700k </td>
     <td rowspan="4">
-      proxmox compute cluster node
+      Proxmox VE 7.1 Compute Node
       <details>
       <ul>
-        <li>Proxmox VE 6.4 OS </li>
+        <li>Proxmox VE 7.1 OS </li>
         <li>Rosewill 4U RSV-R4000 Chassis </li>
         <li>Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz </li>
         <li>G.SKILL TridentZ Series 32GB (4 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 </li>
         <li>ASRock Z270 KILLER SLI/AC LGA 1151 Intel Z270 </li>
+        <li>2x Intel 660p Series M.2 2280 1TB PCIe NVMe 3.0 x4 QLC SSD</li>
         <li>Mellanox MCX311A-XCAT CX311A ConnectX-3 EN 10G Ethernet 10GbE SFP+ PCIe NIC </li>
-        <li>2x Intel SSD 600p Series (512GB, M.2 2280 80mm NVMe PCIe 3.0 x4, 3D1, TLC) (proxmox boot drive) </li>
-        <li>H220 6Gbps SAS PCI-E 3.0 LSI 9205-8i IT Mode </li>
-        <li>9x HGST Ultrastar 7K3000 HUA723030ALA641 3.5in 3TB SATA 6.0Gb/s 7200RPM 64MB Cache Hard Drive</li>
+        <li>4x HGST Ultrastar 7K3000 3.5in 3TB SATA 6.0Gb/s 7200RPM 64MB Cache Hard Drive</li>
         <li>LG Electronics 14x SATA Blu-ray Internal Rewriter (WH14NS40) </li>
         <li>LG WH16NS40 Blu-ray Rewriter 16x Speed</li>
       </ul>
       </details>
     </td>
-  </tr>
-  <tr>
-    <td> u17 </td>
-  </tr>
-  <tr>
-    <td> u16 </td>
-  </tr>
-  <tr>
-    <td> u15 </td>
-  </tr>
+  </tr><tr><td> u17 </td></tr><tr><td> u16 </td></tr><tr><td> u15 </td></tr>
   <tr>
     <td> u14 </td>
-    <td rowspan="4"> server 2 ryzen </td>
+    <td rowspan="4"> server 2: 3800x </td>
     <td rowspan="4">
-      proxmox compute cluster node
+      Proxmox VE 7.1 Compute Node
       <details>
       <ul>
-        <li>Proxmox VE 6.4 OS </li>
+        <li>Proxmox VE 7.1 OS</li>
         <li>Rosewill 4U RSV-R4000 Chassis </li>
         <li>AMD Ryzen 7 3800X 4.5ghz </li>
         <li>Corsair Vengeance LPX 32GB (4x8GB) DDR4 DRAM 3200MHz C16 </li>
         <li>AsRock Rack X470D4U Micro ATX Server Motherboard </li>
         <li>2x Crucial P2 1TB 3D NAND NVMe PCIe M.2 SSD (boot drive)</li>
         <li>Mellanox MCX311A-XCAT CX311A ConnectX-3 EN 10G Ethernet 10GbE SFP+ PCIe NIC </li>
+        <li>4x HGST Ultrastar 7K3000 3.5in 3TB SATA 6.0Gb/s 7200RPM 64MB Cache Hard Drive</li>
       </ul>
       </details>
     </td>
-  </tr>
-  <tr>
-    <td> u13 </td>
-  </tr>
-  <tr>
-    <td> u12 </td>
-  </tr>
-  <tr>
-    <td> u11 </td>
-  </tr>
+  </tr><tr><td> u13 </td></tr><tr><td> u12 </td></tr><tr><td> u11 </td></tr>
   <tr>
     <td> u10 </td>
     <td rowspan="2"> server 1 backup </td>
@@ -212,7 +185,7 @@ Here are some ideas to get you started:
       backup target for all other servers
       <details>
         <ul>
-          <li>TrueNAS Core OS </li>
+          <li>TrueNAS Core OS</li>
           <li>SuperMicro 2U CSE-825 Server Chassis w/ 2x PSU, Backplane SAS825TQ, Rails,8x 3.5 </li>
           <li>Intel(R) Celeron(R) CPU G3930 @ 2.90GHz </li>
           <li>G.SKILL TridentZ Series 32GB (4 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 </li>
@@ -231,7 +204,15 @@ Here are some ideas to get you started:
   <tr>
     <td> u8 </td>
     <td rowspan="2" > 2u drawer</td>
-    <td rowspan="2" > cold spares </td>
+    <td rowspan="2" >
+    cold spares storage
+    <details>
+    <ul>
+      <li>1x HGST Ultrastar 7K3000 3.5in 3TB SATA 6.0Gb/s 7200RPM 64MB Cache Hard Drive</li>
+      <li>H220 6Gbps SAS PCI-E 3.0 LSI 9205-8i IT Mode </li>
+    </ul>
+    </details>
+    </td>
   </tr>
   <tr>
     <td> u7 </td>
