@@ -5,7 +5,9 @@
 
 I'm a student at Cabrillo College majoring in Computer Networking and Systems Administration
 
-I am a HAM Radio Operator working on AREDN infrastructure for santa cruz county
+I am a HAM Radio Operator
+
+
 
 <!--
 **cTurtle98/cTurtle98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
