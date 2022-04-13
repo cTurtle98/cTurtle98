@@ -28,36 +28,32 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u42 </td>
-    <td> pfsense Router </td>
+    <td> Gateway Router Firewall </td>
     <td>
-      Dell r210ii
-      <details>
-        Intel(R) Xeon(R) CPU E31220L @ 2.20GHz <br>
-        8GB (4x2GB) DDR3-1333 MT/s ECC U-DIMM Unbuffered <br>
-        Melanox ConnectX 3 10G sfp+ NIC <br>
-        10G lc fiber sfp+ module
-      </details>
+      Ubiquiti Dream Machine Pro Special Edition
     </td>
   </tr>
   <tr>
     <td> u41 </td>
-    <td> 10G switch </td>
-    <td> CRS317-1G-16S+RM </td>
+    <td> 1G Switch </td>
+    <td> USW-24-Pro </td>
   </tr>
   <tr>
     <td> u40 </td>
-    <td> 10g patch panel </td>
-    <td> </td>
+    <td> 10G Switch </td>
+    <td> Unifi Switch Aggregation </td>
   </tr>
   <tr>
     <td> u39 </td>
-    <td> 1g patch panel </td>
-    <td> </td>
+    <td> PEe patch panel / 10G patch panel </td>
+    <td> left side is the 8 poe ports on the UDM-SE<br>
+         right side is the 10G switch
+    </td>
   </tr>
   <tr>
     <td> u38 </td>
-    <td> 1g poe switch </td>
-    <td> CRS328-24P-4S+RM </td>
+    <td> 1g patch panel </td>
+    <td>  </td>
   </tr>
   <tr>
     <td> u37 </td>
@@ -66,8 +62,8 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td> u36 </td>
-    <td rowspan="2" > 2u shelf </td>
-    <td rowspan="2" > shelf with OTA TV Tuner on it and room for more non rackmount appliences </td>
+    <td  > AREDN Switch </td>
+    <td  > CRS328-24P-4S+RM </td>
   </tr>
   <tr>
     <td> u35 </td>
